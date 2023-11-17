@@ -92,4 +92,4 @@ Created pull request from feature/rectangle-area into geometry-calculator and re
 Created a pull request from geometry-calculator branch to dev and added Garima for review, merged code automatically as there were no conflicts.
 Created a pull request from dev to main branch and merged the code.
 
-Edited README.md on main branch and pulled it to all branches, so that there is no dissimilarity of the file when working on other branches and overwriting it. 
+Edited README.md on main branch as it contains the main versions of Calculator Plus. 
